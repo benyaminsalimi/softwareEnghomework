@@ -1,0 +1,33 @@
+3
+a b c
+3
+5
+0,a,@|0,A
+0,@,@|1,@
+1,b,@|1,A
+1,@,@|2,@
+2,c,A|2,@
+1
+2
+4
+aabbccc
+aabbbccccc
+abc
+abcc
+
+
+
+
+—— tow ——
+2
+a b
+2
+3
+Q,a,@|Q,A,A
+Q,@,@|E,@
+E,b,A|E,@
+1
+E
+2
+aabbbb
+aaabbbbbb
